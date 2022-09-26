@@ -32,17 +32,15 @@ function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
     document.getElementById("main").style.marginLeft = "0";
   }
-function myFunctionwhite(){
-    document.getElementById("main").style.background = "url('https://thumbs.gfycat.com/BlissfulScentedAustraliancattledog-max-1mb.gif')";
+/*function myFunctionwhite(){
     document.getElementById("main").style.color="black"; document.getElementById("home").style.color="black";
-    document.getElementById("service").style.color="black"; document.getElementById("portfolio").style.color="black"; 
+    document.getElementById("service").style.color="black"; document.getElementById("portfolio").style.color="black";
     document.getElementById("about").style.color="black";document.getElementById("paragraph").style.color="black";
+    document.getElementById("modules").style.color="black";
   }
 function myFunctiondarkblue(){
-    document.getElementById("main").style.background = 
-    "url('https://64.media.tumblr.com/ad2c41f9eb80739d26acbce9c44a65f4/f5cba0d8087dd807-28/s540x810/8322292d06b9629b6f4eb7e6ead0261505c3b961.gifv')";
-    document.getElementById("main").style.color="white"; document.getElementById("home").style.color="white"; 
-    document.getElementById("service").style.color="white";document.getElementById("portfolio").style.color="white"; 
-    document.getElementById("about").style.color="white";document.getElementById("paragraph").style.color="white";
-  }
+    document.getElementById("main").style.color="white"; document.getElementById("home").style.color="white"; document.getElementById("service").style.color="white";
+    document.getElementById("portfolio").style.color="white"; document.getElementById("about").style.color="white"; document.getElementById("paragraph").style.color="white";
+    document.getElementById("modules").style.color="white";
+  }*/
   

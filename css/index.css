@@ -2,7 +2,7 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
-    background-image: url("https://thumbs.gfycat.com/BlissfulScentedAustraliancattledog-max-1mb.gif");
+    background-color: beige;
   }
   button{
     border-radius: 20px;
@@ -70,6 +70,7 @@ body, html {
       .sidenav a {font-size: 18px;}
       .main{font-size: 18px;}
       .paragraph h2{ max-height: 1000x;}
+      .body{background-size: 100%;}
     }
   /* Style tab links */
   .tablink {
@@ -134,4 +135,5 @@ body, html {
       display: block;
       margin-bottom: 20px;
     }
+    
   }
